@@ -6,7 +6,7 @@
     </div>
     <div class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
-            <div class="carousel-item active" data-bs-interval="8000">
+            <div class="carousel-item active" data-bs-interval="4000">
                 <div class="card mx-auto border-0 bg-transparent">
                     <div class="card-body text-center">
                         <blockquote class="blockquote mb-2">
@@ -17,7 +17,7 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item" data-bs-interval="8000">
+            <div class="carousel-item" data-bs-interval="4000">
                 <div class="card mx-auto border-0 bg-transparent">
                     <div class="card-body text-center">
                         <blockquote class="blockquote mb-2">
@@ -28,7 +28,7 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item" data-bs-interval="8000">
+            <div class="carousel-item" data-bs-interval="4000">
                 <div class="card mx-auto border-0 bg-transparent">
                     <div class="card-body text-center">
                         <blockquote class="blockquote mb-2">
@@ -39,7 +39,7 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item" data-bs-interval="8000">
+            <div class="carousel-item" data-bs-interval="4000">
                 <div class="card mx-auto border-0 bg-transparent">
                     <div class="card-body text-center">
                         <blockquote class="blockquote mb-2">
@@ -50,7 +50,7 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item" data-bs-interval="8000">
+            <div class="carousel-item" data-bs-interval="4000">
                 <div class="card mx-auto border-0 bg-transparent">
                     <div class="card-body text-center">
                         <blockquote class="blockquote mb-2">
